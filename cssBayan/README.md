@@ -1,1 +1,1 @@
-[rsschool-bayan](https://ivansbalin.github.io/cssBayan/)
+[rsschool-bayan](https://ivansbalin.github.io/cssBayan/cssBayan/)
